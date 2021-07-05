@@ -41,9 +41,9 @@
             "properties": {
                 "marker-symbol": "water",
                 "title": " ",
-                "id": 1,
-                "status": "✔",
-                "update": "29.06.2021"
+                "id": " ",
+                "status": " ",
+                "update": " "
             },
             "geometry": {
                 "type": "Point",
