@@ -40,10 +40,10 @@
             "type": "Feature",
             "properties": {
                 "marker-symbol": "water",
-                "title": " ",
-                "id": " ",
-                "status": " ",
-                "update": " "
+                "title": null,
+                "id": null,
+                "status": null,
+                "update": null
             },
             "geometry": {
                 "type": "Point",
