@@ -40,7 +40,10 @@
             "type": "Feature",
             "properties": {
                 "marker-symbol": "watere",
-                "title": null,
+                "title": "Çeşme / Fountain",
+                "address": "Ormanlı",
+                "city": "Balıkesir",
+                "province": "Erdek",
                 "id": null,
                 "status": null,
                 "update": null
