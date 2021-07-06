@@ -55,6 +55,22 @@
                     40.412427
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 2,
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.791303,
+                    40.395588
+                ]
+            }
         }
     ]
 }
