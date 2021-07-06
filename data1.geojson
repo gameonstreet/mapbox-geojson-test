@@ -1,0 +1,319 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "battery",
+                "title": "Oulard Sanat ve Kafe",
+                "id": "1",
+                "address": "Halit Paşa Mh., Şehit Halil Sk., Banker Apt., No:1",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "[+9] 0 546 507 19 84",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.78901,
+                    40.39831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "battery",
+                "title": "Maviş Büfe",
+                "id": "2",
+                "address": "Zeytinli Mh., Müze Sk., No:2/1A",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "[+9] 0 266 835 58 29"},
+                "status": "✔",
+                "update": "29.06.2021"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.79291,
+                    40.39537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "1",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.778181,
+                    40.412427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "2",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.791303,
+                    40.395588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.793850,
+                    40.395716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.793462,
+                    40.394425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.796057,
+                    40.397634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.795014,
+                    40.399893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.793715,
+                    40.399110
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.794584,
+                    40.401184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.790986,
+                    40.398884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.792116,
+                    40.401417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.788904,
+                    40.398419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.788904,
+                    40.398419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "watere",
+                "title": "Çeşme / Tap",
+                "id": "3",
+                "address": " ",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": " ",
+                "status": "✔",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.782632,
+                    40.420798
+                ]
+            }
+        }
+    ]
+}
